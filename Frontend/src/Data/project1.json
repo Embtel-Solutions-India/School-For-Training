@@ -1,0 +1,26 @@
+[
+  {
+    "img": "/assets/images/casestudies/study01.jpg",   
+    "title": "Business Development",
+    "category": "Finance",
+    "category2": "Business"
+  },
+  {
+    "img": "/assets/images/casestudies/study02.jpg",   
+    "title": "Marketing Strategy",
+    "category": "Marketing",
+    "category2": "Finance"
+  },
+  {
+    "img": "/assets/images/casestudies/study03.jpg",   
+    "title": "Integrated Innovations",
+    "category": "Business",
+    "category2": "Marketing"
+  },
+  {
+    "img": "/assets/images/casestudies/study04.jpg",   
+    "title": "Risk Management",
+    "category": "Corporate",
+    "category2": "Finance"
+  }       
+]

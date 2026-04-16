@@ -1,0 +1,56 @@
+[
+  {
+    "img": "/assets/images/casestudies/inner-study01.jpg",   
+    "title": "Business Development",
+    "category": "Finance",
+    "category2": "Business"
+  },
+  {
+    "img": "/assets/images/casestudies/inner-study02.jpg",   
+    "title": "Marketing Strategy",
+    "category": "Marketing",
+    "category2": "Finance"
+  },
+  {
+    "img": "/assets/images/casestudies/inner-study03.jpg",   
+    "title": "Integrated Innovations",
+    "category": "Business",
+    "category2": "Marketing"
+  },
+  {
+    "img": "/assets/images/casestudies/inner-study04.jpg",   
+    "title": "Risk Management",
+    "category": "Corporate",
+    "category2": "Finance"
+  },
+  {
+    "img": "/assets/images/casestudies/inner-study05.jpg",   
+    "title": "Growth Catalyst Initiative",
+    "category": "Finance",
+    "category2": "Business"
+  },
+  {
+    "img": "/assets/images/casestudies/inner-study06.jpg",   
+    "title": "Digital Innovation Drive",
+    "category": "Marketing",
+    "category2": "Finance"
+  },
+  {
+    "img": "/assets/images/casestudies/inner-study07.jpg",   
+    "title": "Financial Health Assessment",
+    "category": "Business",
+    "category2": "Marketing"
+  },
+  {
+    "img": "/assets/images/casestudies/inner-study08.jpg",   
+    "title": "Brand Evolution Project",
+    "category": "Corporate",
+    "category2": "Finance"
+  },
+  {
+    "img": "/assets/images/casestudies/inner-study09.jpg",   
+    "title": "Management Mastery",
+    "category": "Finance",
+    "category2": "Corporate"
+  }
+]

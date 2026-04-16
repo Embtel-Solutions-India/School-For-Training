@@ -1,0 +1,23 @@
+[
+  {
+    "icon": "icon-comercial",  
+    "title": "Comercial Planning <span class='fw-normal'>for Business</span>",
+    "desc": "Collaboratively disintermediate move to impacter compellingly web architectures without installed",
+    "addclass": "process-single-box br-10",
+    "number": "01"
+  },
+  {
+    "icon": "icon-infomsg",  
+    "title": "Information gather <span class='fw-normal'>and Security</span>",
+    "desc": "Collaboratively disintermediate move to impacter compellingly web architectures without installed",
+    "addclass": "process-single-box br-10",  
+    "number": "02"
+  },
+  {
+    "icon": "icon-finished",  
+    "title": "Finished Processes <span class='fw-normal'>maximum Impact</span>",
+    "desc": "Collaboratively disintermediate move to impacter compellingly web architectures without installed",
+    "addclass": "process-single-box br-10", 
+    "number": "03"
+  }
+]

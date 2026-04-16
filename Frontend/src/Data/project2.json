@@ -1,0 +1,38 @@
+[
+  {
+    "img": "/assets/images/casestudies/home3-study01.jpg",   
+    "icon": "icon-growth-chart",   
+    "title": "Business Development",
+    "category": "Business"
+  },
+  {
+    "img": "/assets/images/casestudies/home3-study02.jpg",    
+    "icon": "icon-target-goal",  
+    "title": "Marketing Strategy",
+    "category": "Marketing"
+  },
+  {
+    "img": "/assets/images/casestudies/home3-study03.jpg",    
+    "icon": "icon-growth-chart",  
+    "title": "Intigrated Innovations",
+    "category": "Strategy"
+  },
+  {
+    "img": "/assets/images/casestudies/home3-study01.jpg",   
+    "icon": "icon-frustration",   
+    "title": "Business Development",
+    "category": "Business"
+  },
+  {
+    "img": "/assets/images/casestudies/home3-study02.jpg",    
+    "icon": "icon-growth-chart",  
+    "title": "Marketing Strategy",
+    "category": "Marketing"
+  },
+  {
+    "img": "/assets/images/casestudies/home3-study03.jpg",   
+    "icon": "icon-target-goal",   
+    "title": "Intigrated Innovations",
+    "category": "Strategy"
+  }  
+]

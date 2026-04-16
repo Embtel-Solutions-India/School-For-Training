@@ -1,0 +1,34 @@
+[
+  {
+    "img": "/assets/images/team/team01.jpg",  
+    "title": "Sandra D. Rainey",
+    "desc": "Executive officer",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  },
+  {
+    "img": "/assets/images/team/team02.jpg",  
+    "title": "Melia T. Brake",
+    "desc": "HR Manager",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  },
+  {
+    "img": "/assets/images/team/team03.jpg",  
+    "title": "Donna L. Aguilar",
+    "desc": "CEO & Founder",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  },  
+  {
+    "img": "/assets/images/team/team04.jpg",  
+    "title": "Linda F. Collins",
+    "desc": "SR Marketer",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  }
+]

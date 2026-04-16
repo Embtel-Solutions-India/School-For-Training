@@ -1,0 +1,66 @@
+[
+  {
+    "img": "/assets/images/team/team01.jpg",  
+    "title": "Sandra D. Rainey",
+    "desc": "Executive officer",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  },
+  {
+    "img": "/assets/images/team/team02.jpg",  
+    "title": "Melia T. Brake",
+    "desc": "HR Manager",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  },
+  {
+    "img": "/assets/images/team/team03.jpg",  
+    "title": "Donna L. Aguilar",
+    "desc": "CEO & Founder",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  },  
+  {
+    "img": "/assets/images/team/team04.jpg",  
+    "title": "Linda F. Collins",
+    "desc": "SR Marketer",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  },
+  {
+    "img": "/assets/images/team/team05.jpg",  
+    "title": "Sandra D. Rainey",
+    "desc": "SR. Accountant",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  },
+  {
+    "img": "/assets/images/team/team06.jpg",  
+    "title": "Nancy G. Johnson",
+    "desc": "Digital Marketer",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  },
+  {
+    "img": "/assets/images/team/team07.jpg",  
+    "title": "Raymond S. Shelby",
+    "desc": "Executive officer",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  },  
+  {
+    "img": "/assets/images/team/team08.jpg",  
+    "title": "Debbie R. Brewer",
+    "desc": "Sales Executive",
+    "linkedin": "#",
+    "twitter": "#",
+    "facebook": "#"
+  }  
+]

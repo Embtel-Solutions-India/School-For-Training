@@ -1,0 +1,29 @@
+[
+  {
+    "img": "/assets/images/blog/blog01.jpg",   
+    "category": "UI/UX DESIGNER",
+    "social-img": "/assets/images/blog/social-pr01.jpg", 
+    "name": "Robert Aguilar",
+    "title": "Supervisor Disapproved Of Latest Work.",
+    "desc": "Collaboratively disintermediate move to impacter compellingly web",
+    "btn-title": "Continue Reading"
+  },
+  {
+    "img": "/assets/images/blog/blog02.jpg",  
+    "category": "Business",
+    "social-img": "/assets/images/blog/social-pr02.jpg",
+    "name": "Amy Renner",
+    "title": "Quickly reconceptualize strategic e-tailers",
+    "desc": "Collaboratively disintermediate move to impacter compellingly web",
+    "btn-title": "Continue Reading"
+  },
+  {
+    "img": "/assets/images/blog/blog03.jpg",  
+    "category": "Technology",
+    "social-img": "/assets/images/blog/social-pr03.jpg",
+    "name": "RDevid Lucas",
+    "title": "Dramatically benchmarks collaborative growth",
+    "desc": "Collaboratively disintermediate move to impacter compellingly web",
+    "btn-title": "Continue Reading"
+  }
+]
