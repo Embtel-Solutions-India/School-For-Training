@@ -1,6 +1,6 @@
 // API Configuration
-const API_BASE_URL = "http://160.153.191.50:4000/User/api";
-export const BASE_URL_IMAGE = "http://160.153.191.50:4000/uploads/";
+const API_BASE_URL = "/User/api";
+export const BASE_URL_IMAGE = "/uploads/";
 // Generic API call function
 const apiCall = async (endpoint, options = {}) => {
   try {
