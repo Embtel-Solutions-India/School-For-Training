@@ -1,4 +1,5 @@
-export const BASE_URL = "http://160.153.191.50:4000";
+export const BASE_URL = "/api";
+
 export const BASE_URL_ADMIN = `${BASE_URL}/Admin/api`;
 export const BASE_URL_USER = `${BASE_URL}/User/api`;
 export const BASE_URL_IMAGE = `${BASE_URL}/uploads`;
