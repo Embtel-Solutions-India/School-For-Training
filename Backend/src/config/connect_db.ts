@@ -1,30 +1,21 @@
-
 import mongoose from 'mongoose';
-import { config } from 'dotenv';
-config();
 import db_config from './db_config';
 
-
 const connect_to_db = async () => {
-      let { URI } = db_config
+  try {
+    const { URI } = db_config;
 
+    console.log("USING DB:", URI); // DEBUG
 
-      let options: any = {
-            // useNewUrlParser: true,
-            // useUnifiedTopology: true,
-            // useFindAndModify: false,
-            // useCreateIndex: true
-      }
+    await mongoose.connect(URI);
 
-      mongoose.connect(URI, options);
-      mongoose.connection.on("connected", (data: any) => {
-            console.log("SERVER LOAD")
-            console.log("connected to MongoDb");
-      });
-      mongoose.connection.on("error", (error: any) => {
-            console.log(error);
-      });
+    console.log("SERVER LOAD");
+    console.log("connected to MongoDb");
 
-}
+  } catch (error) {
+    console.log("DB ERROR:", error);
+    process.exit(1);
+  }
+};
 
 export default connect_to_db;
