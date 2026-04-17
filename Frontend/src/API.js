@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = "/api/User/api";
+const API_BASE_URL = "/api/User";
 export const BASE_URL_IMAGE = "/uploads/";
 // Generic API call function
 const apiCall = async (endpoint, options = {}) => {
