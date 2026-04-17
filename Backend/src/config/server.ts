@@ -63,7 +63,7 @@ app.get("/", (req: any, res: any) => {
   res.send(`Your IP address is: ${userIP}`);
 });
 
-app.use("/Admin/api", adminRoutes);
+app.use("/api/Admin", adminRoutes);
 app.use("/api/User", userRoutes);
 
 app.use("/uploads", express.static(path.join(process.cwd(), "src", "uploads")));
