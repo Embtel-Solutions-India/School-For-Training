@@ -1,7 +1,7 @@
 export const BASE_URL = "/api";
 
-export const BASE_URL_ADMIN = `${BASE_URL}/Admin/api`;
-export const BASE_URL_USER = `${BASE_URL}/User/api`;
+export const BASE_URL_ADMIN = `${BASE_URL}/Admin`;
+export const BASE_URL_USER = `${BASE_URL}/User`;
 export const BASE_URL_IMAGE = `${BASE_URL}/uploads`;
 
 export const IMAGE_URL = BASE_URL;
