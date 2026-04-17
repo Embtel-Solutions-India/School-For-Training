@@ -64,7 +64,7 @@ app.get("/", (req: any, res: any) => {
 });
 
 app.use("/Admin/api", adminRoutes);
-app.use("/User/api", userRoutes);
+app.use("/api/User", userRoutes);
 
 app.use("/uploads", express.static(path.join(process.cwd(), "src", "uploads")));
 
